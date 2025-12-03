@@ -50,7 +50,6 @@ Output:
 <img width="1028" height="279" alt="Screenshot 2025-10-23 202533" src="https://github.com/user-attachments/assets/557552b8-edb2-4f75-8f36-f2215e578668" />
 
 Tabulation:
-![WhatsApp Image 2025-10-23 at 20 29 33_090d4c68](https://github.com/user-attachments/assets/50a3bb28-4ab6-4628-b026-604cfdcb73f5)
 
 Result
 
